@@ -1,4 +1,4 @@
-# PYTHON MODULE-3
+# PYTHON MODULE - 3
 # (C) 🧹 Strings-Remove Nth Index Character from a String
 
 ## 🎯 Aim:
